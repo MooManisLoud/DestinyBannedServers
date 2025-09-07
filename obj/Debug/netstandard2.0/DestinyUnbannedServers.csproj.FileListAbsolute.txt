@@ -1,0 +1,5 @@
+C:\Users\gamin\source\repos\DestinyUnbannedServers\DestinyUnbannedServers\obj\Debug\netstandard2.0\DestinyUnbannedServers.csproj.AssemblyReference.cache
+C:\Users\gamin\source\repos\DestinyUnbannedServers\DestinyUnbannedServers\obj\Debug\netstandard2.0\DestinyUnbannedServers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamin\source\repos\DestinyUnbannedServers\DestinyUnbannedServers\obj\Debug\netstandard2.0\DestinyUnbannedServers.AssemblyInfoInputs.cache
+C:\Users\gamin\source\repos\DestinyUnbannedServers\DestinyUnbannedServers\obj\Debug\netstandard2.0\DestinyUnbannedServers.AssemblyInfo.cs
+C:\Users\gamin\source\repos\DestinyUnbannedServers\DestinyUnbannedServers\obj\Debug\netstandard2.0\DestinyUnbannedServers.csproj.CoreCompileInputs.cache

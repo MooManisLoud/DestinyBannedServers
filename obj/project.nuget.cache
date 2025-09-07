@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYtes7QLjgs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gamin\\source\\repos\\DestinyUnbannedServers\\DestinyUnbannedServers\\DestinyUnbannedServers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gamin\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
