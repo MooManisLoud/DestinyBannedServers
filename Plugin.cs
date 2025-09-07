@@ -37,7 +37,7 @@ namespace DestinyBannedServers
         Thank you for exploring our project! You are free to use,
         modify, and distribute this source code under one condition: 
         please provide credit to 'The Destiny Team' in your project.
-        We appreciate your support and recognition of our work.
+        We appreciate your support.
 
         - Moo (serializeviewbatch on discord)
                  
@@ -364,4 +364,5 @@ namespace DestinyBannedServers
             CosmeticsController.instance.GetCurrencyBalance();
         }
     }
+
 }
