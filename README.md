@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <strong>Destiny Banned Servers</strong> lets you connect to a server with other banned players on the latest version of <strong>Gorilla Tag</strong>!
+    <strong>Destiny Banned Servers</strong> lets you connect to servers with other banned players on the latest version of <strong>Gorilla Tag</strong>!
 </p>
 
 <p align="center">Any mod is supported with this so if you have any mods that you want to play with your friends (or if your alone )then you can.</p>
